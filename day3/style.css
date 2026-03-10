@@ -1,0 +1,84 @@
+li{
+            color:acqa;
+            background-color:yellow;
+            border:15px solid peachpuff ;
+            height:50%;
+            font-weight:100;
+            font-style:italic;
+            font-family:'Times New Roman',Times,Serif;
+            display:inline;
+            word-spacing:1cm;
+        }
+img{
+            color:acqa;
+            background-color:yellow;
+            border:15px solid black ;
+            height:250px;
+            font-weight:25;
+            font-family:'Times New Roman',Times,Serif;
+            display:inline;
+            word-spacing:cm;
+        }
+        h1{
+            border:15px solid powderblue ;
+        }
+        p1,p2{
+            font-style:italic;
+            background-color:palevioletred;
+             border:2px solid rebeccapurple;
+             height:50px;
+             font-weight:25;
+            font-family:'Times New Roman',Times,Serif;
+
+        }
+        div{
+             border:10px solid palegreen;
+             background-color:yellow;
+        }
+        /* CLASS SELECTOR*/
+        .c1{
+            color:acqa;
+            font-weight:200;
+            font-size:25;
+            font-family:'Times New Roman',Times,Serif;
+             background-color:palevioletred;
+             border:2px solid palegreen;
+        }
+         .c2{
+            color:acqa;
+            font-weight:200;
+            font-size:25;
+            font-family:'Times New Roman',Times,Serif;
+             background-color:gray;
+             border:3px solid powderblue;
+        }
+        /*ID SELOCTORS*/
+        #p1{
+color:whitesmoke;
+font-family:'Times New Roman',Times,Serif;
+background-color:palevioletred;
+        }
+         #p2{
+            color:hotpink;
+font-family:'Times New Roman',Times,Serif;
+background-color:yellowgreen;
+            
+        }
+         #p3{
+            color:olive;
+font-family:'Times New Roman',Times,Serif;
+background-color:navajowhite;
+            
+        }
+         #p4{
+            color:violet;
+font-family:'Times New Roman',Times,Serif;
+background-color:blueviolet;
+        }
+        /*UNIVERSAL SELOCTORS*/
+        *{
+             color:olive;
+font-family:'Times New Roman',Times,Serif;
+background-color:orange;
+
+        }
