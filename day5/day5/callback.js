@@ -4,6 +4,6 @@ const message = `Hello, ${name}!`;
 callback(message);
 }
 // Passing a function as an argument
-greetUser('Navya', function(msg) {
-console.log(msg); 
+greetUser('Lalita', function(msg) {
+console.log(msg); // 'Hello, Lalita!'
 });
